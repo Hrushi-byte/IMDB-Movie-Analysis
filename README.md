@@ -40,8 +40,3 @@ Note: The underlying data source used in this project is embedded within the .pb
 🎯 Purpose
 This project was created as part of a mini-project to showcase data visualization skills using Power BI. It serves as a portfolio piece and can be extended or customized for further practice.
 
-🧑‍💻 Author
-Name: Hrushi
-
-Role: IT Student
-
