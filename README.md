@@ -1,4 +1,5 @@
 🎬 MiniProject - Movies Dashboard
+
 A Power BI dashboard project designed to explore and analyze data from the movies industry. This dashboard provides insights into various metrics like movie popularity, budget vs. revenue, genres, production companies, and more.
 
 📁 File Included
